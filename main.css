@@ -122,9 +122,6 @@ ul.main-right-news {
 	position: relative;
 	top:100px;
 	right: -50px;
-
-
-
 }
 
 .news{
@@ -148,3 +145,49 @@ ul.main-right-news {
 	width: 250px;
 	text-indent: 0;
 }
+
+/* footer starts */
+
+.footer {
+	border-top: 2px solid #fec1cb;
+	clear: both;
+	width: 100%;
+	padding-top: 20px;
+}
+
+.footer-news {
+	position: relative;
+	left: 0px;
+}
+
+#footer-news-list {
+	list-style-type: none;
+	width: 100%;
+	display: inline;
+  	float: left;
+  	margin: 0;
+  	padding: 0;
+	
+}
+
+#footer-mini-blocks li {
+  float: left;
+}
+
+.footer-images {
+	width: 23%;
+	float: left;
+	margin: 5px;
+}
+
+.footer-news-copy {
+	float: left;
+    width: 23%;
+    margin: 5px;
+    text-align: justify-inter-word;
+    
+}
+
+
+
+/* footer ends */
